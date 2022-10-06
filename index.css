@@ -56,12 +56,6 @@ nav {
     bottom: 0px;
 }
 
-#nav-bar-top {
-    position: fixed;
-    top: 0px;
-    bottom: 0px;
-}
-
 h1 {
    text-align:center;
 }
